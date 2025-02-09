@@ -28,6 +28,6 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -snake.svg snake.gif
+          git add .
           git commit -m "Gerando snake animation" || echo "Nenhuma alteração para commit"
           git push
