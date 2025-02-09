@@ -18,16 +18,24 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }} 
+          
+      - name: Garantir que o arquivo foi gerado corretamente
+        run: ls -lah | grep snake  
 
       - name: Converter SVG para GIF
         run: |
           sudo apt-get update && sudo apt-get install -y imagemagick
-          convert -delay 10 -loop 0 snake.svg snake.gif
+          if [ -f snake.svg ]; then
+            convert -delay 10 -loop 0 snake.svg snake.gif
+          else
+            echo "Erro: Arquivo snake.svg não foi gerado!"
+            exit 1
+          fi
 
       - name: Commit e push da animação gerada
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add .
+          git add snake.svg snake.gif
           git commit -m "Gerando snake animation" || echo "Nenhuma alteração para commit"
           git push
