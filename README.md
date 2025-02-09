@@ -48,9 +48,5 @@
 
 <br clear="both">
 
-![Snake animation]("https://raw.githubusercontent.com/gabylima831/gabylima831/main/snake.svg" alt="Snake animation")
-
 ###
 
-
-###
