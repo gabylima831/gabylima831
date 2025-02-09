@@ -12,30 +12,25 @@ jobs:
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 
 
       - name: Gerar a snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: "gabylima831" 
           github_token: ${{ secrets.GITHUB_TOKEN }} 
-          
-      - name: Garantir que o arquivo foi gerado corretamente
-        run: ls -lah | grep snake  
 
-      - name: Converter SVG para GIF
-        run: |
-          sudo apt-get update && sudo apt-get install -y imagemagick
-          if [ -f snake.svg ]; then
-            convert -delay 10 -loop 0 snake.svg snake.gif
-          else
-            echo "Erro: Arquivo snake.svg não foi gerado!"
-            exit 1
-          fi
+      - name: Aguardar a geração da animação
+        run: sleep 5
+
+      - name: Inspecionar o conteúdo do arquivo gerado
+        run: cat snake.svg
 
       - name: Commit e push da animação gerada
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add snake.svg snake.gif
+          git add snake.svg 
           git commit -m "Gerando snake animation" || echo "Nenhuma alteração para commit"
           git push
