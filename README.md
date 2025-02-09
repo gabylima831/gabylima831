@@ -4,11 +4,12 @@
 
 <p align="left">Olá, sou a Gaby! </p>
 
+
 <p align="left">📚 Estudante de Sistemas de Informação<br> ⚡️ Interessada em explorar a área de Segurança da Informação<br>🎯 Foco em HTML, CSS, JavaScript e Python<br>🎲Aprendendo a criar projetos em Flutter e Angular</p>
 
 ###
 
-<h2 align="left"> 👩🏾‍💻 Linguagens e Ferramentas</h2>
+<h2 align="left"> 🛠 Linguagens e Ferramentas</h2>
 
 ###
 
@@ -17,7 +18,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
