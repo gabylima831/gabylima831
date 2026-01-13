@@ -5,7 +5,7 @@
 <p align="left">Olá, sou a Gaby! </p>
 
 
-<p align="left">📚 Estudante de Sistemas de Informação<br> ⚡️ Interessada em explorar a área de Segurança da Informação<br>🎯 Foco em HTML, CSS, JavaScript e Python<br>🎲 Aprendendo a criar projetos em Flutter e Angular</p>
+<p align="left">Estudante de Sistemas de Informação<br> Interessada em explorar a área de Segurança da Informação<br>Foco em HTML, CSS, JavaScript e Python<br>Aprendendo a criar projetos em Flutter e Angular</p>
 
 ###
 
