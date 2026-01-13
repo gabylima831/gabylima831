@@ -35,7 +35,7 @@
 
 <h2 align="left"> 🗂 Repositórios de Projetos</h2>
 
-<p align="left">✍️ FrontEnd: Design e Interfaces com HTML, CSS e JS<br> 💡 Python: Projetos simples e práticos<br>🎲 SQL: Conexão com banco de dados<br>🎯 Desafios: Exercícios para aprendizado na prática (ex.: Oficina Java com Eclipse)<br> 📋 Aprendizado: Pequenos projetos interativos e atividades de cunho acadêmico</p>
+<p align="left">FrontEnd: Design e Interfaces com HTML, CSS e JS<br> Python: Projetos simples e práticos<br>SQL: Conexão com banco de dados<br>Desafios: Exercícios para aprendizado na prática (ex.: Oficina Java com Eclipse)<br>Aprendizado: Pequenos projetos interativos e atividades de cunho acadêmico</p>
 
 <h2 align="left"> 🔔 Status </h2>
 
