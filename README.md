@@ -1,41 +1,28 @@
-<h1 align="left">Olá! Eu sou a Gaby 👋</h1>
+<h1 align="left">Olá, eu sou a Gaby</h1>
 
 <p align="left">
-  Estudante de <strong>Sistemas de Informação</strong> e desenvolvedora com experiência prática em
-  desenvolvimento web, backend, bancos de dados e sistemas para ambientes reais.
+Estudante de <strong>Sistemas de Informação</strong> e desenvolvedora com experiência prática em desenvolvimento web, backend, bancos de dados e sistemas.
 </p>
 
 <p align="left">
-  Atualmente, tenho maior interesse em <strong>Desenvolvimento de Software</strong>,
-  <strong>Backend</strong>, <strong>Dados</strong> e <strong>Segurança da Informação</strong>.
-</p>
-
-<p align="left">
-  ☕ Java &nbsp;•&nbsp;
-  🌐 Angular &nbsp;•&nbsp;
-  🗄️ PostgreSQL &nbsp;•&nbsp;
-  📱 Flutter &nbsp;•&nbsp;
-  🐍 Python
+Tenho interesse em <strong>Desenvolvimento de Software</strong>, <strong>Backend</strong>, <strong>Dados</strong> e <strong>Segurança da Informação</strong>.
 </p>
 
 ---
 
-## 👩‍💻 Sobre mim
+## Sobre mim
 
-- 🎓 Bacharelado em **Sistemas de Informação**
-- 💻 Experiência prática com **desenvolvimento Full Stack**
-- ☕ Desenvolvimento backend com **Java e Spring Boot**
-- 🌐 Desenvolvimento frontend com **Angular**
-- 🗄️ Modelagem e desenvolvimento de bancos de dados com **PostgreSQL**
-- 📱 Desenvolvimento de aplicações com **Flutter**
-- 🔐 Interesse em **Segurança da Informação**
-- 🧩 Interesse em **Dados, APIs, arquitetura de sistemas e integração entre serviços**
-- 🐳 Conhecimentos em **Docker e Git**
-- 📚 Atualmente desenvolvendo projetos acadêmicos e pessoais para aprofundar conhecimentos em desenvolvimento e segurança
+- Estudante de Bacharelado em Sistemas de Informação
+- Experiência prática com desenvolvimento Full Stack
+- Desenvolvimento backend com Java e Spring Boot
+- Desenvolvimento frontend com Angular
+- Modelagem e desenvolvimento de bancos de dados com PostgreSQL
+- Desenvolvimento de aplicações com Flutter
+- Conhecimentos em Python e JavaScript
+- Interesse em Segurança da Informação, Dados e arquitetura de sistemas
+- Experiência com Git, GitHub e Docker
 
----
-
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### Linguagens
 
@@ -61,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
 </p>
 
-### Ferramentas e ambiente
+### Ferramentas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
@@ -71,90 +58,67 @@
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
-### 🗺️ EcoLoc — Localização e Evacuação em Trilhas
+### EcoLoc
 
-Projeto de TCC voltado para uma arquitetura híbrida físico-digital de localização e orientação para visitantes em uma área controlada do Parque EcoBocaina.
+Projeto de TCC voltado para uma arquitetura híbrida físico-digital de localização e orientação em trilhas.
 
-**Principais conceitos:**
-
-- 📍 Geolocalização
-- 📴 Navegação offline
-- 🔳 QR Codes
-- 🗺️ Rotas e orientação
-- 🚨 Rotas de fuga e segurança em trilhas
-- 🌐 Aplicação Web/PWA
-- 📱 Sistemas móveis
+O projeto aborda navegação offline, geolocalização, QR Codes, orientação de visitantes e rotas de fuga.
 
 **Tecnologias:** Angular, Java, Spring Boot, PostgreSQL e PWA.
 
----
+### Aegis
 
-### 🛡️ Aegis — Sistema de Segurança e Suporte
+Projeto acadêmico de um sistema de segurança e suporte em situações de risco, com foco em acionamento discreto, localização e comunicação em tempo real.
 
-Projeto acadêmico de um sistema voltado à segurança de mulheres em situações de risco, com foco em acionamento discreto, localização e comunicação com contatos de confiança.
-
-**Principais conceitos:**
-
-- 🔐 Segurança e privacidade
-- 📍 Localização em tempo real
-- 🔔 Notificações
-- 🌐 Comunicação em tempo real
-- 🗃️ Auditoria e rastreabilidade
-- 🔑 Autenticação e autorização
-- 📡 Integração entre serviços
+O projeto aborda autenticação, autorização, auditoria, privacidade, notificações e comunicação entre serviços.
 
 **Tecnologias:** Java, Spring Boot, banco de dados e tecnologias web/mobile.
 
----
+### Sistema de Agendamento de Perícia Médica
 
-### 📅 Sistema de Agendamento de Perícia Médica
-
-Sistema desenvolvido para gerenciamento de agendamentos, autenticação e processamento de tarefas automatizadas.
+Sistema para gerenciamento de agendamentos, autenticação e tarefas automatizadas.
 
 **Tecnologias:** Java 17, Spring Boot, Angular, PostgreSQL, JWT e Quartz.
 
 ---
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
-```text
-Desenvolvimento Backend
-├── Java
-├── Spring Boot
-├── APIs REST
-├── Autenticação e autorização
-└── Arquitetura de sistemas
+**Backend**
+- Java
+- Spring Boot
+- APIs REST
+- Autenticação e autorização
+- Arquitetura de sistemas
 
-Frontend
-├── Angular
-├── TypeScript
-├── HTML
-└── CSS
+**Frontend**
+- Angular
+- TypeScript
+- HTML
+- CSS
 
-Dados
-├── PostgreSQL
-├── SQL
-├── Modelagem de dados
-└── Consultas e otimização
+**Dados**
+- PostgreSQL
+- SQL
+- Modelagem de dados
+- Consultas e otimização
 
-Segurança
-├── Fundamentos de Segurança da Informação
-├── Segurança de aplicações
-├── Redes
-└── Computação forense
+**Segurança**
+- Fundamentos de Segurança da Informação
+- Segurança de aplicações
+- Redes
+- Computação forense
 
-DevOps
-├── Git
-├── GitHub
-├── Docker
-└── CI/CD
-```
+**DevOps**
+- Git e GitHub
+- Docker
+- CI/CD
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 <div align="center">
 
@@ -166,17 +130,11 @@ DevOps
 
 ---
 
-## 📫 Contato
+## Contato
 
 <p align="left">
   <a href="https://github.com/gabylima831">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <!-- Adicione aqui seu LinkedIn -->
-</p>
-
----
-
-<p align="center">
-  <i>Construindo projetos, aprendendo continuamente e transformando conhecimento em soluções.</i>
 </p>
