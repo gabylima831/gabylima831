@@ -1,11 +1,13 @@
-<h1 align="left">Olá, eu sou a Gaby</h1>
+<h1 align="left">Olá! Eu sou a Gaby</h1>
 
 <p align="left">
-Estudante de <strong>Sistemas de Informação</strong> e desenvolvedora com experiência prática em desenvolvimento web, backend, bancos de dados e sistemas.
+  Estudante de <strong>Sistemas de Informação</strong> e desenvolvedora com experiência prática em
+  desenvolvimento web, backend, bancos de dados e sistemas.
 </p>
 
 <p align="left">
-Tenho interesse em <strong>Desenvolvimento de Software</strong>, <strong>Backend</strong>, <strong>Dados</strong> e <strong>Segurança da Informação</strong>.
+  Atualmente, tenho interesse em <strong>Desenvolvimento de Software</strong>,
+  <strong>Backend</strong>, <strong>Dados</strong> e <strong>Segurança da Informação</strong>.
 </p>
 
 ---
@@ -21,6 +23,8 @@ Tenho interesse em <strong>Desenvolvimento de Software</strong>, <strong>Backend
 - Conhecimentos em Python e JavaScript
 - Interesse em Segurança da Informação, Dados e arquitetura de sistemas
 - Experiência com Git, GitHub e Docker
+
+---
 
 ## Tecnologias
 
@@ -60,25 +64,44 @@ Tenho interesse em <strong>Desenvolvimento de Software</strong>, <strong>Backend
 
 ## Projetos em destaque
 
-### EcoLoc
+### EcoLoc — Localização e Evacuação em Trilhas
 
-Projeto de TCC voltado para uma arquitetura híbrida físico-digital de localização e orientação em trilhas.
+Projeto de TCC voltado para uma arquitetura híbrida físico-digital de localização e orientação para visitantes em uma área controlada do Parque EcoBocaina.
 
-O projeto aborda navegação offline, geolocalização, QR Codes, orientação de visitantes e rotas de fuga.
+**Principais conceitos:**
+
+- Geolocalização
+- Navegação offline
+- QR Codes
+- Rotas e orientação
+- Rotas de fuga e segurança em trilhas
+- Aplicação Web/PWA
 
 **Tecnologias:** Angular, Java, Spring Boot, PostgreSQL e PWA.
 
-### Aegis
+---
 
-Projeto acadêmico de um sistema de segurança e suporte em situações de risco, com foco em acionamento discreto, localização e comunicação em tempo real.
+### Aegis — Sistema de Segurança e Suporte
 
-O projeto aborda autenticação, autorização, auditoria, privacidade, notificações e comunicação entre serviços.
+Projeto acadêmico de um sistema voltado à segurança de mulheres em situações de risco, com foco em acionamento discreto, localização e comunicação com contatos de confiança.
+
+**Principais conceitos:**
+
+- Segurança e privacidade
+- Localização em tempo real
+- Notificações
+- Comunicação em tempo real
+- Auditoria e rastreabilidade
+- Autenticação e autorização
+- Integração entre serviços
 
 **Tecnologias:** Java, Spring Boot, banco de dados e tecnologias web/mobile.
 
+---
+
 ### Sistema de Agendamento de Perícia Médica
 
-Sistema para gerenciamento de agendamentos, autenticação e tarefas automatizadas.
+Sistema desenvolvido para gerenciamento de agendamentos, autenticação e processamento de tarefas automatizadas.
 
 **Tecnologias:** Java 17, Spring Boot, Angular, PostgreSQL, JWT e Quartz.
 
@@ -86,33 +109,39 @@ Sistema para gerenciamento de agendamentos, autenticação e tarefas automatizad
 
 ## Atualmente estudando
 
-**Backend**
+### Desenvolvimento Backend
+
 - Java
 - Spring Boot
 - APIs REST
 - Autenticação e autorização
 - Arquitetura de sistemas
 
-**Frontend**
+### Frontend
+
 - Angular
 - TypeScript
 - HTML
 - CSS
 
-**Dados**
+### Dados
+
 - PostgreSQL
 - SQL
 - Modelagem de dados
 - Consultas e otimização
 
-**Segurança**
+### Segurança
+
 - Fundamentos de Segurança da Informação
 - Segurança de aplicações
 - Redes
 - Computação forense
 
-**DevOps**
-- Git e GitHub
+### DevOps
+
+- Git
+- GitHub
 - Docker
 - CI/CD
 
