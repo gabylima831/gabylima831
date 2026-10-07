@@ -1,0 +1,27 @@
+name: Snake Debug
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Verificar ambiente
+        run: |
+          echo "Runner: $RUNNER_NAME"
+          echo "Sistema: $RUNNER_OS"
+          echo "Branch: $GITHUB_REF"
+          echo "Workspace: $GITHUB_WORKSPACE"
+
+      - name: Verificar Git
+        run: |
+          git status
+          git branch --show-current
