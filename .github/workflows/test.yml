@@ -1,0 +1,15 @@
+name: Test GitHub Actions
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Test runner
+        run: |
+          echo "GitHub Actions está funcionando!"
+          echo "Runner: $RUNNER_OS"
+          echo "Arquitetura: $RUNNER_ARCH"
