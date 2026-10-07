@@ -9,10 +9,6 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: generate-snake-${{ github.ref }}
-  cancel-in-progress: true
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -25,10 +21,11 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: gabylima831
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             snake.svg
             snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit e push
         run: |
