@@ -285,6 +285,22 @@ Git
 
 <div align="center">
 
+---
+
+## Atividade no GitHub
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="snake.svg">
+  <img alt="GitHub Snake" src="snake.svg">
+</picture>
+
+</div>
+
+---
+
 ```text
 ╭──────────────────────────────────────────────────────╮
 │                                                      │
