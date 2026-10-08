@@ -6,15 +6,16 @@
 
 <br>
 
-<picture>
-  <img src="assets/butterfly.png" width="380" alt="ASCII butterfly">
-</picture>
-
-<br>
-
 > *"Transformando ideias em soluções através da tecnologia."*
 
 </div>
+
+<img
+  src="assets/wave.gif"
+  width="100%"
+  height="300"
+  alt="Animated wave"
+/>
 
 ---
 
