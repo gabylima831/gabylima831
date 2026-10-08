@@ -14,18 +14,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout do repositório
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Gerar Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: gabylima831
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             snake.svg
             snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit e push
         run: |
@@ -34,6 +33,9 @@ jobs:
 
           git add snake.svg snake-dark.svg
 
-          git diff --cached --quiet || git commit -m "chore: update github snake"
-
-          git push
+          if git diff --cached --quiet; then
+            echo "Nenhuma alteração para commit."
+          else
+            git commit -m "chore: update github snake"
+            git push
+          fi
