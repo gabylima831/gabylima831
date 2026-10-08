@@ -1,23 +1,12 @@
 <div align="center">
 
-<h1>Gabryella Lima</h1>
-
-<h3>
-  <sub>Graduanda em S.I</sub> ·
-  <sub>Desenvolvedora Full Stack Jr.</sub> ·
-  <sub>Analista de Sistemas</sub>
-</h3>
-
-> *"A necessidade é a mãe da inovação." (Platão)*
+<img
+  src="assets/Gabryella%20Lima%20Oliveira%20(1).png"
+  width="100%"
+  alt="banner"
+/>
 
 </div>
-
-<img
-  src="assets/wave.gif"
-  width="100%"
-  height="400"
-  alt="Animated wave"
-/>
 
 <div align="left">
   
@@ -26,7 +15,7 @@
 </div>
 
 <img
-src="assets/brabuleta.png"
+src="assets/flor-cerejeira.png"
 width="150"
 align="right"
 alt="Decorative butterfly"
@@ -42,6 +31,12 @@ em criar soluções organizadas, seguras e eficientes.
 </div>
 
 <div align="left">
+
+<img
+  src="assets/cerejeira.gif"
+  width="100%"
+  alt="Animated wave"
+/>
   
 ## `> ferramentas`
 
@@ -106,7 +101,7 @@ em criar soluções organizadas, seguras e eficientes.
   <td width="25%" valign="middle" align="right">
 
 <img
-  src="assets/flor-cerejeira.png"
+  src="assets/brabuleta.png"
   width="160"
   alt="Featured projects"
 />
