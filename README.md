@@ -89,26 +89,39 @@ em criar soluções organizadas, seguras e eficientes.
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
+    <td width="75%" valign="middle">
 
-  <td width="60%" valign="middle">
+<table border="0" width="100%">
+  <tr>
+    <th align="left">Projeto</th>
+    <th align="left">Descrição</th>
+  </tr>
 
-| Projeto | Descrição |
-|---|---|
-| **EcoLoc** | Sistema de localização e orientação para trilhas (Em andamento) |
-| **Agendamento de Perícia Médica** | Sistema web para gerenciamento e agendamento de perícias |
-| **Gestão de Processos de Pagamento** | Sistema para acompanhamento de processos, notas fiscais e pagamentos |
+  <tr>
+    <td><strong>EcoLoc</strong></td>
+    <td>Sistema de localização e orientação para trilhas (Em andamento)</td>
+  </tr>
 
-  </td>
-  
-  <td width="25%" valign="middle" align="right">
+  <tr>
+    <td><strong>Agendamento de Perícia Médica</strong></td>
+    <td>Sistema web para gerenciamento e agendamento de perícias</td>
+  </tr>
 
+  <tr>
+    <td><strong>Gestão de Processos de Pagamento</strong></td>
+    <td>Sistema para acompanhamento de processos, notas fiscais e pagamentos</td>
+  </tr>
+</table>
+
+</td>
+
+<td width="25%" valign="middle" align="center">
 <img
   src="assets/brabuleta.png"
-  width="160"
+  width="140"
   alt="Featured projects"
 />
-    </td>
-
+</td>
   </tr>
 </table>
 
