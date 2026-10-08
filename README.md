@@ -41,45 +41,43 @@ em criar soluções organizadas, seguras e eficientes.
   
 ## `> ferramentas`
 
-<table border="0" cellspacing="0" cellpadding="0" style="border: 0;" width="100%">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
-    <td width="65%" valign="middle">
 
-  <table border="0" cellspacing="0" cellpadding="0" style="border: 0;">
-  <tr>
-  <td width="30%" valign="middle" align="left">
+  <td width="70%" valign="middle">
 
-<img
-  src="assets/borboleta.png"
-  width="150"
-  align="right"
-  alt="Decorative butterfly"
-/>
+  <table border="0" cellspacing="0" cellpadding="0" width="100%">
+    <tr>
+
+  <td width="28%" valign="middle" align="center">
+    <img
+      src="assets/borboleta.png"
+      width="120"
+      alt="Decorative butterfly"
+    />
   </td>
 
-  <td width="70%" valign="middle" align="left">
-
-<img
-  src="https://skillicons.dev/icons?i=java,spring,angular,flutter,js,python,postgresql,docker,git,github&perline=5"
-  width="350"
-  alt="Technologies"
-/>
-
+  <td width="72%" valign="middle" align="left">
+    <img
+      src="https://skillicons.dev/icons?i=java,spring,angular,flutter,js,python,postgresql,docker,git,github&perline=5"
+      width="100%"
+      alt="Technologies"
+    />
   </td>
+
   </tr>
   </table>
 
   </td>
 
-  <td width="35%" valign="middle" align="right">
-
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabylima831&layout=compact&langs_count=6&custom_title=My%20favorite%20languages&theme=dracula&hide_border=true"
-  alt="Most Used Languages"
-/>
-
+  <td width="30%" valign="middle" align="center">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabylima831&layout=compact&langs_count=6&custom_title=My%20favorite%20languages&theme=dracula&hide_border=true"
+      width="100%"
+      alt="Most Used Languages"
+    />
   </td>
+
   </tr>
 </table>
 
