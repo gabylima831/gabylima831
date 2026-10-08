@@ -6,19 +6,19 @@
 
 <br>
 
-> *"Transformando ideias em soluções através da tecnologia."*
+> *"A necessidade é a mãe da inovação." (Platão)*
 
 </div>
 
 <img
   src="assets/wave.gif"
   width="100%"
-  height="300"
+  height="380"
   alt="Animated wave"
 />
 
 ---
-
+  
 ## `> about_me`
 
 ```text
@@ -27,7 +27,6 @@ Desenvolvedora Web Full Stack
 Interessada em Segurança da Informação e Dados
 Construindo projetos com foco em organização, segurança e usabilidade
 ```
-
 ---
 
 ## `> technologies`
