@@ -7,7 +7,7 @@
 <br>
 
 <picture>
-  <img src="assets/butterfly-light.jpg" width="380" alt="ASCII butterfly">
+  <img src="assets/butterfly-light.png" width="380" alt="ASCII butterfly">
 </picture>
 
 <br>
