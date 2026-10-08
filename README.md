@@ -1,10 +1,12 @@
 <div align="center">
 
-# Gaby Lima
+<h1>Gabryella Lima</h1>
 
-### Information Systems Student · Full Stack Developer · Information Security
-
-<br>
+<h3>
+  <sub>Graduanda em S.I</sub> ·
+  <sub>Desenvolvedora Full Stack Jr.</sub> ·
+  <sub>Analista de Sistemas</sub>
+</h3>
 
 > *"A necessidade é a mãe da inovação." (Platão)*
 
@@ -19,7 +21,7 @@
 
 <div align="left">
   
-## `> about_me`
+## `> sobre mim`
 
 </div>
 
@@ -33,18 +35,15 @@ alt="Decorative butterfly"
 <div align="left">
 
 ```text
-Estudante de Sistemas de Informação
-Desenvolvedora Web Full Stack
-Interessada em Segurança da Informação e Dados
-Construindo projetos com foco em organização, segurança e usabilidade
+Estudante de Sistemas de Informação e Desenvolvedora Web Full Stack Jr., com experiência em
+desenvolvimento e suporte de sistemas. Interessada em Segurança da Informação e Dados, com foco
+em criar soluções organizadas, seguras e eficientes.
 ```
 </div>
 
-<br clear="right">
-
 <div align="left">
   
-## `> technologies`
+## `> ferramentas`
 
 <table border="0" cellspacing="0" cellpadding="0" style="border: 0;" width="100%">
   <tr>
@@ -59,7 +58,6 @@ Construindo projetos com foco em organização, segurança e usabilidade
   width="150"
   alt="Decorative butterfly"
 />
-
   </td>
 
   <td width="70%" valign="middle" align="left">
@@ -88,11 +86,14 @@ Construindo projetos com foco em organização, segurança e usabilidade
   </tr>
 </table>
 
-<br>
-
 ---
 
-## `> featured_projects`
+## `> projetos`
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+
+  <td width="75%" valign="middle">
 
 | Projeto | Descrição |
 |---|---|
@@ -100,9 +101,21 @@ Construindo projetos com foco em organização, segurança e usabilidade
 | **Agendamento de Perícia Médica** | Sistema web para gerenciamento e agendamento de perícias |
 | **Gestão de Processos de Pagamento** | Sistema para acompanhamento de processos, notas fiscais e pagamentos |
 
----
+  </td>
+  
+  <td width="25%" valign="middle" align="right">
 
-## `> contribution`
+<img
+  src="assets/flor-cerejeira.png"
+  width="160"
+  alt="Featured projects"
+/>
+    </td>
+
+  </tr>
+</table>
+
+## `> contribuições`
 
 <div align="center">
 
@@ -118,7 +131,7 @@ Construindo projetos com foco em organização, segurança e usabilidade
 
 <div align="center">
 
-### `> let's connect`
+### `> contatos`
 
 <a href="SEU_LINKEDIN_AQUI">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
