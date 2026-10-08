@@ -61,7 +61,7 @@ em criar soluções organizadas, seguras e eficientes.
 
 <img
   src="https://skillicons.dev/icons?i=java,spring,angular,flutter,js,python,postgresql,docker,git,github&perline=5"
-  width="380"
+  width="350"
   alt="Technologies"
 />
 
