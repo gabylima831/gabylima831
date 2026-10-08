@@ -52,7 +52,7 @@ em criar soluções organizadas, seguras e eficientes.
   <td width="28%" valign="middle" align="center">
     <img
       src="assets/borboleta.png"
-      width="120"
+      width="300"
       alt="Decorative butterfly"
     />
   </td>
@@ -90,11 +90,6 @@ em criar soluções organizadas, seguras e eficientes.
     <td width="75%" valign="middle">
 
 <table border="0" width="100%">
-  <tr>
-    <th align="left">Projeto</th>
-    <th align="left">Descrição</th>
-  </tr>
-
   <tr>
     <td><strong>EcoLoc</strong></td>
     <td>Sistema de localização e orientação para trilhas (Em andamento)</td>
