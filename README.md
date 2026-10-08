@@ -265,29 +265,23 @@ Git
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gabylima831&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true" height="165" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=gabylima831&show_icons=true&theme=dracula&include_all_commits=true"
+    height="180"
+    alt="GitHub Stats"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabylima831&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="165" alt="Top Languages" />
-
-</div>
-
----
-
-## Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabylima831&theme=dracula&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabylima831&layout=compact&langs_count=8&theme=dracula"
+    height="180"
+    alt="Top Languages"
+  />
 
 </div>
 
 ---
 
-<div align="center">
-
----
-
-## Atividade no GitHub
+## 🐍 Contribuições
 
 <div align="center">
 
