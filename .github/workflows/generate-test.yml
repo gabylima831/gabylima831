@@ -1,0 +1,25 @@
+name: Generate Test
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Teste
+        run: |
+          echo "JOB INICIOU"
+          echo "Runner: $RUNNER_NAME"
+          echo "Sistema: $RUNNER_OS"
+
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Git
+        run: |
+          git status
