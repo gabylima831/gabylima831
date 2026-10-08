@@ -1,0 +1,21 @@
+name: Snake Action Test
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Gerar Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: gabylima831
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            snake.svg
+            snake-dark.svg?palette=github-dark
