@@ -7,9 +7,7 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/butterfly-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/butterfly-light.png">
-  <img src="assets/butterfly-light.png" width="380" alt="ASCII butterfly">
+  <img src="assets/butterfly.png" width="380" alt="ASCII butterfly">
 </picture>
 
 <br>
