@@ -7,8 +7,6 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/butterfly-dark.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/butterfly-light.jpg">
   <img src="assets/butterfly-light.jpg" width="380" alt="ASCII butterfly">
 </picture>
 
@@ -54,8 +52,6 @@ Construindo projetos com foco em organização, segurança e usabilidade
 ## `> github_stats`
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gabylima831&show_icons=true&theme=dracula&include_all_commits=true" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabylima831&layout=compact&langs_count=8&theme=dracula" />
 
