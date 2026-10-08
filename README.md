@@ -52,6 +52,7 @@ em criar soluções organizadas, seguras e eficientes.
 <img
   src="assets/borboleta.png"
   width="150"
+  align="right"
   alt="Decorative butterfly"
 />
   </td>
