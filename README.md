@@ -31,13 +31,6 @@ em criar soluções organizadas, seguras e eficientes.
 </div>
 
 <div align="left">
-
-<img
-  src="assets/kiki.gif"
-  width="100%"
-  height="450"
-  alt="Animated wave"
-/>
   
 ## `> ferramentas`
 
@@ -129,6 +122,13 @@ em criar soluções organizadas, seguras e eficientes.
 </picture>
 
 </div>
+
+<img
+  src="assets/birdo.gif"
+  width="100%"
+  height="450"
+  alt="Animated wave"
+/>
 
 ---
 
