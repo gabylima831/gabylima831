@@ -124,7 +124,7 @@ em criar soluções organizadas, seguras e eficientes.
 </div>
 
 <img
-  src="assets/birdo.gif"
+  src="assets/download.gif"
   width="100%"
   height="450"
   alt="Animated wave"
