@@ -126,7 +126,7 @@ em criar soluções organizadas, seguras e eficientes.
 <img
   src="assets/download.gif"
   width="100%"
-  height="450"
+  height="500"
   alt="Animated wave"
 />
 
